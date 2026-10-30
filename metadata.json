@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro - Sistem Kasir & Inventaris Multi-Cabang",
+  "description": "Sistem Kasir (POS) modern dengan manajemen inventaris, pembayaran QRIS dinamis, cetak struk otomatis, analitik multi-cabang, dan role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
